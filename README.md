@@ -6,4 +6,4 @@ Trabalho final da disciplina de Programação 2 na Universidade Federal do Paran
 * O mundo apresenta diversas missões com seus graus de dificuldade, heróis, poderes e pontos de experiência
 
 # Requisitos
-Bibliotecas padrões da linguagem C
+Bibliotecas padrão da linguagem C
